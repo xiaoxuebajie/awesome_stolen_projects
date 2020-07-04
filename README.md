@@ -1,7 +1,7 @@
 # awesome_stolen_projects
 A repository related some awsome stolen projects
 
-### **1. 去除同级目录下重复图片**       [代码](./human_key_point_detection)  [详细内容](./human_key_point_detection/README.md)
+### **1. 去除同级目录下重复图片**       [详细内容](./human_key_point_detection) 
 
 - 可以检测单张图片的关键点（测试用）
 - 可以对视频进行关键点检测（TKinter界面）
